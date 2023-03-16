@@ -1,0 +1,39 @@
+#head
+{
+    color:rgb(241, 55, 49);
+}
+.head2
+{
+    color: rgb(195, 61, 45);
+    font-style: italic;
+}
+.olul
+{
+    color:rgb(159, 9, 9);
+}
+#space
+{
+    letter-spacing: 4px;
+}
+#para
+{
+    color: rgb(172, 69, 4);
+}
+#line
+{
+    text-decoration-line: line-through;
+}
+.highlight
+{
+    background-color: yellow;
+}
+#uline
+{
+    text-decoration-line: underline;
+    font-style: italic;
+}
+#link
+{
+    text-decoration: none;
+    font-weight: 600;
+}
